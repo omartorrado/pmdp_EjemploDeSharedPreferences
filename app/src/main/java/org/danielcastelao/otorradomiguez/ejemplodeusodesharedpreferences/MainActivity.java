@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         //realizamos un commit para que guarde los cambios, espere a terminar y continue con el codigo
         prefEdit.commit();
         /*
-        con prefEdit.apply(); tb guardaria los cambios, pero en lugar de esperar a guardarlo todo
+        con prefEdit.apply(); tb guardaria los cambios, pero en lugar de esperar a guardarlo tudo
         continua ejecutando el codigo mientras las guarda
         */
     }
